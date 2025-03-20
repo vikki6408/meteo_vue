@@ -1,7 +1,7 @@
 <template>
   <nav>
     <router-link to="/">Météo Ste-Croix</router-link> |
-    <router-link to="/meteo">Météo</router-link>
+    <router-link to="/meteo">Météo</router-link> |
     <router-link to="/about">A propos</router-link>
   </nav>
   <router-view />
